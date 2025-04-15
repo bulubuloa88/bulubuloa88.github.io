@@ -2,11 +2,11 @@
 #EXTINF:-1 tvg-id="vtv1" group-title="VTV" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/20230626/5de59236-89a2-4387-8664-f2fc27608093.jpg",VTV1
 https://vtvgolive-ssai.vtvdigital.vn/tAigS4rC8fcdBmhvxNh2aQ/1744891384/manifest/vtv1/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="vtv2" group-title="VTV" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/20230626/5ac4a9fb-6da7-4785-aab5-ae85e471d869.jpg",VTV2
-https://vtvgolive-ssai.vtvdigital.vn/tAigS4rC8fcdBmhvxNh2aQ/1744891384/manifest/vtv2/playlist_1080p.m3u8
+https://vtvgolive-webvtv.vtvdigital.vn/RL_CRohVPbTLbTFAa49ArA/1762728534/vtvgo/vtv2-720p.m3u8
 #EXTINF:-1 tvg-id="vtv3" group-title="VTV" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/20230626/292a3f4e-c6ee-4858-9c49-f61dde69a854.jpg",VTV3
-https://vtvgolive-ssai.vtvdigital.vn/tAigS4rC8fcdBmhvxNh2aQ/1744891384/manifest/vtv3/playlist_1080p.m3u8
+https://vtvgolive-ssai.vtvdigital.vn/o7ys-S1n7wTk8r4DrG0MMg/1744908378/manifest/vtv3/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="vtv4" group-title="VTV" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/20230626/f161041d-3a3f-4c0a-88f2-ae97f8052ee7.jpg",VTV4
-https://vtvgolive-ssai.vtvdigital.vn/tAigS4rC8fcdBmhvxNh2aQ/1744891384/manifest/vtv4/playlist_1080p.m3u8
+https://vtvgolive-webvtv.vtvdigital.vn/R8N6JhKgUXrfDVjeHGzvBQ/1762728193/vtvgo/vtv4-720p.m3u8
 #EXTINF:-1 tvg-id="vtv5" group-title="VTV" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/20230626/d84c3036-3cc4-4c45-911f-8d1c5025cd93.jpg",VTV5
 https://vtvgolive-ssai.vtvdigital.vn/tAigS4rC8fcdBmhvxNh2aQ/1744891384/manifest/vtv5/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="vtv5tnb" group-title="VTV" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/20230626/d84c3036-3cc4-4c45-911f-8d1c5025cd93.jpg",VTV5 Tay Nam Bo
