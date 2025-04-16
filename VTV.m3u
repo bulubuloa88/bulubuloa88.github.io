@@ -9,9 +9,9 @@ https://iptv.nhadai.org/stream/vtv3-hd
 https://iptv.nhadai.org/stream/vtv4-hd
 #EXTINF:-1 tvg-id="vtv5" group-title="IPTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
 https://iptv.nhadai.org/stream/vtv5-hd
-#EXTINF:-1 tvg-id="vtv5tnb" group-title="VTVGo" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tay Nam Bo
+#EXTINF:-1 tvg-id="vtv5tnb" group-title="IPTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tay Nam Bo
 https://iptv.nhadai.org/stream/vtv5-tay-nam-bo
-#EXTINF:-1 tvg-id="vtv5tn" group-title="VTVGo" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tay Nguyen
+#EXTINF:-1 tvg-id="vtv5tn" group-title="IPTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tay Nguyen
 https://iptv.nhadai.org/stream/vtv5-tay-nguyen
 #EXTINF:-1 tvg-id="vtv6" group-title="IPTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Can Tho
 https://iptv.nhadai.org/stream/vtv-can-tho
