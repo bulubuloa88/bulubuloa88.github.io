@@ -23,6 +23,26 @@ https://iptv.nhadai.org/stream/vtv8-hd
 https://iptv.nhadai.org/stream/vtv9-hd
 #EXTINF:-1 tvg-id="QPVN" group-title="IPTV" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN
 https://iptv.nhadai.org/stream/quoc-phong-vn
+#EXTINF:-1 tvg-id="FPTPlay" group-title="IPTV" tvg-logo="http://iptv.nhadai.org/img/fpt-play.png",FPTPlay
+http://iptv.nhadai.org/stream/fpt-play
+#EXTINF:-1 tvg-id="htvc-the-thao" group-title="IPTV" tvg-logo="http://iptv.nhadai.org/img/htvc-the-thao.png",HTVC Thể Thao
+http://iptv.nhadai.org/stream/htvc-the-thao
+#EXTINF:-1 tvg-id="HTV9" group-title="IPTV" tvg-logo="http://iptv.nhadai.org/img/htv9-hd.png",HTV9
+http://iptv.nhadai.org/stream/htv9-hd
+#EXTINF:-1 tvg-id="ASIAN_FOOD_CHANNEL" group-title="IPTV" tvg-logo="http://iptv.nhadai.org/img/asian-food-channel.png",Asian Food Channel
+http://iptv.nhadai.org/stream/asian-food-channel
+#EXTINF:-1 tvg-id="DA_VINCI_LEARNING" group-title="IPTV" tvg-logo="http://iptv.nhadai.org/img/da-vinci-learning.png",Da Vinci Learning
+http://iptv.nhadai.org/stream/da-vinci-learning
+#EXTINF:-1 tvg-id="cnbc" group-title="IPTV" tvg-logo="http://iptv.nhadai.org/img/cnbc.png",CNBC
+http://iptv.nhadai.org/stream/cnbc
+#EXTINF:-1 tvg-id="KBS_WORLD" group-title="IPTV" tvg-logo="http://iptv.nhadai.org/img/kbs-world.png",KBS World
+http://iptv.nhadai.org/stream/kbs-world
+#EXTINF:-1 tvg-id="ANTV" group-title="IPTV" tvg-logo="http://iptv.nhadai.org/img/antv.png",ANTV
+http://iptv.nhadai.org/stream/antv
+#EXTINF:-1 tvg-id="da-nang-1" group-title="IPTV" tvg-logo="http://iptv.nhadai.org/img/da-nang-1.png",Đà Nẵng 1
+http://iptv.nhadai.org/stream/da-nang-1
+#EXTINF:-1 tvg-id="da-nang-2" group-title="IPTV" tvg-logo="http://iptv.nhadai.org/img/da-nang-2.png",Đà Nẵng 2
+http://iptv.nhadai.org/stream/da-nang-2
 #EXTINF:-1 tvg-id="vtv1" group-title="VTVGo" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/20230626/5de59236-89a2-4387-8664-f2fc27608093.jpg",VTV1
 https://vtvgolive-vtv.vtvdigital.vn/45CBF9eZKJAZoVwrIdcYQA/1745666802/vtvgo/vtv1-720p.m3u8
 #EXTINF:-1 tvg-id="vtv2" group-title="VTVGo" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/20230626/5ac4a9fb-6da7-4785-aab5-ae85e471d869.jpg",VTV2
