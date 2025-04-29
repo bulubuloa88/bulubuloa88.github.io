@@ -1,1 +1,1 @@
-link:"THAPCAM",api:"https://thapcamiptv.com",link:"VEBO",api:"https://vebo.thethaoiptv.com",link:"TRUYENHINH",api:"https://iptv.nhadai.org/v1",link:"PHIM",api:"https://op-pvd.moviedb.dev",link:"ANIME",api:"https://iptv.animehay.dev",link:"NANGCUC",api:"https://iptv.nangcucz.link"
+link:"THAPCAM",api:"https://sport.xoilaczz.link/providers",link:"VEBO",api:"https://vebo.thethaoiptv.com",link:"TRUYENHINH",api:"https://iptv.nhadai.org/v1",link:"PHIM",api:"https://op-pvd.moviedb.dev",link:"ANIME",api:"https://iptv.animehay.dev",link:"NANGCUC",api:"https://iptv.nangcucz.link"
