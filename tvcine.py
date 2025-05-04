@@ -5,7 +5,7 @@ import re, json, os
 import urllib.parse
 import urlquick, htmlement
 from resources import fshare, cache_utils
-from addon import alert, notify, TextBoxes, getadv, ADDON, ADDON_ID, ADDON_PROFILE, LOG, PROFILE
+from addon import alert, notify, TextBoxes, ADDON, ADDON_ID, ADDON_PROFILE, LOG, PROFILE
 import xbmcgui, xbmc, xbmcvfs
 from datetime import timedelta
 
@@ -160,12 +160,14 @@ def listMovie(url):
         
         data = {"content_type": "movies", "items": ""}
         data.update({"items": items})
+        '''
         if 'page/' not in url:
             item_adv = getadv()
             items_length = len(data["items"])
             random_position = random.randint(1, min(5, items_length + 1))
             data["items"].insert(random_position, item_adv)
         #dialog.close()
+        '''
         return data
     
     #dialog = xbmcgui.DialogProgress()
