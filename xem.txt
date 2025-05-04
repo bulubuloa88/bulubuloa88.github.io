@@ -1,1 +1,1 @@
-link:"THẬP CẨM",api:"https://sport.xoilaczz.link/providers",link:"TRUYỀN HÌNH",api:"https://iptv.nhadai.org/v1",link:"NANGCUC",api:"https://iptv.nangcucz.link"
+link:"THAPCAM",api:"https://sport.xoilaczz.link/providers",link:"TRUYENHINH",api:"https://iptv.nhadai.org/v1",link:"NANGCUC",api:"https://iptv.nangcucz.link"
