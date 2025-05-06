@@ -49,11 +49,3 @@ http://iptv.nhadai.org/stream/hanoitv-2
 http://iptv.nhadai.org/stream/quang-tri
 #EXTINF:-1 tvg-id="ASIAN_FOOD_CHANNEL" group-title="IPTV" tvg-logo="http://iptv.nhadai.org/img/asian-food-channel.png",Asian Food Channel
 http://iptv.nhadai.org/stream/asian-food-channel
-#EXTINF:-1 tvg-id="DA_VINCI_LEARNING" group-title="IPTV" tvg-logo="http://iptv.nhadai.org/img/da-vinci-learning.png",Da Vinci Learning
-http://iptv.nhadai.org/stream/da-vinci-learning
-#EXTINF:-1 tvg-id="cnbc" group-title="IPTV" tvg-logo="http://iptv.nhadai.org/img/cnbc.png",CNBC
-http://iptv.nhadai.org/stream/cnbc
-#EXTINF:-1 tvg-id="KBS_WORLD" group-title="IPTV" tvg-logo="http://iptv.nhadai.org/img/kbs-world.png",KBS World
-http://iptv.nhadai.org/stream/kbs-world
-#EXTINF:-1 tvg-id="CHANNEL_NEWSASIA" group-title="IPTV" tvg-logo="http://iptv.nhadai.org/img/channel-newsasia.png",Channel NewsAsia
-http://iptv.nhadai.org/stream/channel-newsasia
