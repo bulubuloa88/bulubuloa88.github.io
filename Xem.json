@@ -2,18 +2,21 @@
   "link":[
     {
     "name": "THẬP CẨM",
-    "image":"https://thapcamiptv.com/10cam-logo-app-light.jpg",
+    "plot": "Trực tiếp Thể thao",
+    "image":"https://image-eu-na-ctnytbefjq.4shares.live/90link/logo/10cam.png",
     "banner":"https://storage.googleapis.com/uxfolio/6571f212c3ab1200024e71f5/6571f269c3ab1200024e71f6/hWKBW5Uewyh3JGAx.png",
     "api":"https://sport.xoilaczz.link/providers"
     }, 
     {
     "name": "TRUYỀN HÌNH",
+    "plot": "Xem Chương trình Truyền hình Trực tuyến Miễn phí",
     "image":"http://iptv.nhadai.org/logo.png",
     "banner":"http://iptv.nhadai.org/s-banner.png",
     "api":"https://iptv.nhadai.org/v1"
     },
     {
     "name": "NANGCUC",
+    "plot": "Xem phim nắng cực hay mới nhất",
     "image":"https://img.nangcuc.live/images/logo-oq7muqxcliwv.png",
     "banner":"https://iptv.nangcucz.link/images/banner.png",
     "api":"https://iptv.nangcucz.link"
