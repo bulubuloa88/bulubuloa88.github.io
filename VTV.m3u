@@ -47,5 +47,3 @@ http://iptv.nhadai.org/stream/hanoitv-1
 http://iptv.nhadai.org/stream/hanoitv-2
 #EXTINF:-1 tvg-id="QuangTri" group-title="IPTV" tvg-logo="http://iptv.nhadai.org/img/quang-tri.png",Quảng Trị
 http://iptv.nhadai.org/stream/quang-tri
-#EXTINF:-1 tvg-id="ASIAN_FOOD_CHANNEL" group-title="IPTV" tvg-logo="http://iptv.nhadai.org/img/asian-food-channel.png",Asian Food Channel
-http://iptv.nhadai.org/stream/asian-food-channel
