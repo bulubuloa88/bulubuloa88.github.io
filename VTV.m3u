@@ -21,6 +21,8 @@ https://iptv.nhadai.org/stream/vtv7-hd
 https://iptv.nhadai.org/stream/vtv8-hd
 #EXTINF:-1 tvg-id="vtv9" group-title="IPTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
 https://iptv.nhadai.org/stream/vtv9-hd
+#EXTINF:-1 tvg-id="vtv9" group-title="IPTV" tvg-logo="http://iptv.nhadai.org/img/vietnam-today.png",VietNam Today
+http://iptv.nhadai.org/stream/vietnam-today
 #EXTINF:-1 tvg-id="QPVN" group-title="IPTV" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN
 https://iptv.nhadai.org/stream/quoc-phong-vn
 #EXTINF:-1 tvg-id="ANTV" group-title="IPTV" tvg-logo="http://iptv.nhadai.org/img/antv.png",ANTV
@@ -43,7 +45,17 @@ http://iptv.nhadai.org/stream/htv7-hd
 http://iptv.nhadai.org/stream/htv9-hd
 #EXTINF:-1 tvg-id="HANOITV1" group-title="IPTV" tvg-logo="http://iptv.nhadai.org/img/hanoitv-1.png",Hà Nội TV1
 http://iptv.nhadai.org/stream/hanoitv-1
-#EXTINF:-1 tvg-id="HANOITV2" group-title="IPTV" tvg-logo="http://iptv.nhadai.org/img/hanoitv-1.png",Hà Nội TV2
+#EXTINF:-1 tvg-id="HANOITV2" group-title="IPTV" tvg-logo="http://iptv.nhadai.org/img/hanoitv-2.png",Hà Nội TV2
 http://iptv.nhadai.org/stream/hanoitv-2
 #EXTINF:-1 tvg-id="QuangTri" group-title="IPTV" tvg-logo="http://iptv.nhadai.org/img/quang-tri.png",Quảng Trị
 http://iptv.nhadai.org/stream/quang-tri
+#EXTINF:-1 tvg-id="ASIAN_FOOD_CHANNEL" group-title="IPTV" tvg-logo="http://iptv.nhadai.org/img/asian-food-channel.png",Asian Food Channel
+http://iptv.nhadai.org/stream/asian-food-channel
+#EXTINF:-1 tvg-id="DA_VINCI_LEARNING" group-title="IPTV" tvg-logo="http://iptv.nhadai.org/img/da-vinci-learning.png",Da Vinci Learning
+http://iptv.nhadai.org/stream/da-vinci-learning
+#EXTINF:-1 tvg-id="cnbc" group-title="IPTV" tvg-logo="http://iptv.nhadai.org/img/cnbc.png",CNBC
+http://iptv.nhadai.org/stream/cnbc
+#EXTINF:-1 tvg-id="KBS_WORLD" group-title="IPTV" tvg-logo="http://iptv.nhadai.org/img/kbs-world.png",KBS World
+http://iptv.nhadai.org/stream/kbs-world
+#EXTINF:-1 tvg-id="CHANNEL_NEWSASIA" group-title="IPTV" tvg-logo="http://iptv.nhadai.org/img/channel-newsasia.png",Channel NewsAsia
+http://iptv.nhadai.org/stream/channel-newsasia
