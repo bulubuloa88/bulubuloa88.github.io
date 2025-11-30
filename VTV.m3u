@@ -43,6 +43,22 @@ http://iptv.nhadai.org/stream/htv2
 http://iptv.nhadai.org/stream/htv7-hd
 #EXTINF:-1 tvg-id="HTV9" group-title="IPTV" tvg-logo="http://iptv.nhadai.org/img/htv9-hd.png",HTV9
 http://iptv.nhadai.org/stream/htv9-hd
+#EXTINF:-1 tvg-id="HTVC_Phim" group-title="IPTV" tvg-logo="http://iptv.nhadai.org/img/htvc-phim.png",HTVC Phim
+http://iptv.nhadai.org/stream/htvc-phim
+#EXTINF:-1 tvg-id="HTVC_DU_LICH" group-title="IPTV" tvg-logo="http://iptv.nhadai.org/img/htvc-du-lich.png",HTVC Du Lịch
+http://iptv.nhadai.org/stream/htvc-du-lich
+#EXTINF:-1 tvg-id="HTVC_GIA_DINH" group-title="IPTV" tvg-logo="http://iptv.nhadai.org/img/htvc-gia-dinh.png",HTVC Gia Đình
+http://iptv.nhadai.org/stream/htvc-gia-dinh
+#EXTINF:-1 tvg-id="HTVC_PHU_NU" group-title="IPTV" tvg-logo="http://iptv.nhadai.org/img/htvc-phu-nu.png",HTVC Phụ Nữ
+http://iptv.nhadai.org/stream/htvc-phu-nu
+#EXTINF:-1 tvg-id="HTVC_PLUS" group-title="IPTV" tvg-logo="http://iptv.nhadai.org/img/htvc-plus.png",HTVC Plus
+http://iptv.nhadai.org/stream/htvc-plus
+#EXTINF:-1 tvg-id="HTVC_CA_NHAC" group-title="IPTV" tvg-logo="http://iptv.nhadai.org/img/htvc-ca-nhac.png",HTVC Ca Nhạc
+http://iptv.nhadai.org/stream/htvc-ca-nhac
+#EXTINF:-1 tvg-id="HTVC_THUAN_VIET_HD" group-title="IPTV" tvg-logo="http://iptv.nhadai.org/img/htvc-thuan-viet-hd.png",HTVC Thuần Việt
+http://iptv.nhadai.org/stream/htvc-thuan-viet-hd
+#EXTINF:-1 tvg-id="FIM360" group-title="IPTV" tvg-logo="http://iptv.nhadai.org/img/fim360.png",FIM360
+http://iptv.nhadai.org/stream/fim360
 #EXTINF:-1 tvg-id="HANOITV1" group-title="IPTV" tvg-logo="http://iptv.nhadai.org/img/hanoitv-1.png",Hà Nội TV1
 http://iptv.nhadai.org/stream/hanoitv-1
 #EXTINF:-1 tvg-id="HANOITV2" group-title="IPTV" tvg-logo="http://iptv.nhadai.org/img/hanoitv-2.png",Hà Nội TV2
