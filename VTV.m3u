@@ -1,33 +1,33 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="vtv1" group-title="VTVGo" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/VTV1_150x902_1675159127.webp",VTV1
 https://vtvgolive-ssaimh.vtvdigital.vn/t5UbSdW_46YVAmNX5GWxBQ/1766588428/manifest/vtv1/master.m3u8
-#EXTINF:-1 tvg-id="vtv2" group-title="IPTV" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/VTV2_150x902_1675158864.webp",VTV2
+#EXTINF:-1 tvg-id="vtv2" group-title="VTVGo" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/VTV2_150x902_1675158864.webp",VTV2
 https://vtvgolive-ssaimh.vtvdigital.vn/7gxbsWOnFCQuxLIaWYLcxA/1766600530/manifest/vtv2/master.m3u8
-#EXTINF:-1 tvg-id="vtv3" group-title="IPTV" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/VTV3_150x902_1675158867.webp",VTV3
+#EXTINF:-1 tvg-id="vtv3" group-title="VTVGo" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/VTV3_150x902_1675158867.webp",VTV3
 https://vtvgolive-ssaimh.vtvdigital.vn/FUjk4plCD3qsV8kMsnosfg/1766600543/manifest/vtv3/master.m3u8
-#EXTINF:-1 tvg-id="vtv4" group-title="IPTV" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/VTV4_150x901_1675158857.webp",VTV4
+#EXTINF:-1 tvg-id="vtv4" group-title="VTVGo" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/VTV4_150x901_1675158857.webp",VTV4
 https://vtvgolive-ssaimh.vtvdigital.vn/Hxoh1zD7GWE4afYLazVi5A/1766600860/manifest/vtv4/master.m3u8
-#EXTINF:-1 tvg-id="vtv5" group-title="IPTV" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/VTV5_150x901_1675158859.webp",VTV5
+#EXTINF:-1 tvg-id="vtv5" group-title="VTVGo" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/VTV5_150x901_1675158859.webp",VTV5
 https://vtvgolive-ssaimh.vtvdigital.vn/_tnhhXDg-6eCKwQ7pAjM5A/1766600556/manifest/vtv5/master.m3u8
-#EXTINF:-1 tvg-id="vtv5tnb" group-title="IPTV" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/rame2608629831.jpg",VTV5 Tay Nam Bo
+#EXTINF:-1 tvg-id="vtv5tnb" group-title="VTVGo" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/rame2608629831.jpg",VTV5 Tay Nam Bo
 https://vtvgolive-ssaimh.vtvdigital.vn/-uj_xJDgiQ6a8hnMeJHxKg/1766600928/manifest/vtv5tnb/master.m3u8
-#EXTINF:-1 tvg-id="vtv5tn" group-title="IPTV" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/vtv5-tay-nguyen1.jpg",VTV5 Tay Nguyen
+#EXTINF:-1 tvg-id="vtv5tn" group-title="VTVGo" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/vtv5-tay-nguyen1.jpg",VTV5 Tay Nguyen
 https://vtvgolive-ssaimh.vtvdigital.vn/Cjx66u2MMuHfM7XjSBYdiw/1766601068/manifest/vtv5tn/master.m3u8
-#EXTINF:-1 tvg-id="vtv6" group-title="IPTV" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/vtv-can-tho1.jpg",VTV Can Tho
+#EXTINF:-1 tvg-id="vtv6" group-title="VTVGo" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/vtv-can-tho1.jpg",VTV Can Tho
 https://vtvgolive-ssaimh.vtvdigital.vn/kuTIjQXkgemMIWQ5Y-kb8Q/1766600907/manifest/vtv6/master.m3u8
-#EXTINF:-1 tvg-id="vtv7" group-title="IPTV" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/VTV7_150x901_1675158864.webp",VTV7
+#EXTINF:-1 tvg-id="vtv7" group-title="VTVGo" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/VTV7_150x901_1675158864.webp",VTV7
 https://vtvgolive-ssaimh.vtvdigital.vn/BCnDiEPtdoPewburwIHcYA/1766601107/manifest/vtv7/master.m3u8
-#EXTINF:-1 tvg-id="vtv8" group-title="IPTV" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/8_150x901_167515886611.jpg",VTV8
+#EXTINF:-1 tvg-id="vtv8" group-title="VTVGo" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/8_150x901_167515886611.jpg",VTV8
 https://vtvgolive-ssaimh.vtvdigital.vn/ZaIBPplevQ9MfVT7eyTxwQ/1766601145/manifest/vtv8/master.m3u8
-#EXTINF:-1 tvg-id="vtv9" group-title="IPTV" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/VTV9_150x901_1675158866.webp",VTV9
+#EXTINF:-1 tvg-id="vtv9" group-title="VTVGo" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/VTV9_150x901_1675158866.webp",VTV9
 https://vtvgolive-ssaimh.vtvdigital.vn/n761HnT1tLnoTlth_eINrA/1766601183/manifest/vtv9/master.m3u8
-#EXTINF:-1 tvg-id="vtv9" group-title="IPTV" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250906/2025090623/vvcemcZDle-VIETNAMTODAY-KENHVTVgo-150x90copy.webp",VietNam Today
+#EXTINF:-1 tvg-id="vtv9" group-title="VTVGo" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250906/2025090623/vvcemcZDle-VIETNAMTODAY-KENHVTVgo-150x90copy.webp",VietNam Today
 https://vtvgolive-ssaimh.vtvdigital.vn/ZeiYGfAE5RyYvDDfGFn-sg/1766600564/manifest/vietnamtoday/master.m3u8
-#EXTINF:-1 tvg-id="QPVN" group-title="IPTV" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/QPVN_150x902_1675158863.webp",QPVN
+#EXTINF:-1 tvg-id="QPVN" group-title="VTVGo" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/QPVN_150x902_1675158863.webp",QPVN
 https://cmcty.vtvdigital.vn/mean/QPTV/index.m3u8
-#EXTINF:-1 tvg-id="ANTV" group-title="IPTV" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/AnNinhTVHD_150x902_1675158868.webp",ANTV
+#EXTINF:-1 tvg-id="ANTV" group-title="VTVGo" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/AnNinhTVHD_150x902_1675158868.webp",ANTV
 https://cmcty.vtvdigital.vn/mean/ANNINHTV/index.m3u8
-#EXTINF:-1 tvg-id="da-nang-1" group-title="IPTV" tvg-logo=""https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250708/2025070814/9QfIszw4s7-DNRT1-LOGO-KENHVTVgo-150x90.webp",Đà Nẵng 1
+#EXTINF:-1 tvg-id="da-nang-1" group-title="VTVGo" tvg-logo=""https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250708/2025070814/9QfIszw4s7-DNRT1-LOGO-KENHVTVgo-150x90.webp",Đà Nẵng 1
 https://cmcdp3.vtvdigital.vn/hls/DANANGTV/index.m3u8
 #EXTINF:-1 tvg-id="vtv1" group-title="IPTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
 https://iptv.nhadai.org/stream/vtv1-hd
