@@ -1,0 +1,7 @@
+<favourites>
+    <favourite name="thuviencine.com" thumb="special://home/addons/plugin.video.vietmediaF\resources\images\tvcn.jpeg">ActivateWindow(10025,"plugin://plugin.video.vietmediaF/?action=browse&amp;url=https%3a%2f%2fthuviencine.com%2fmenu",return)</favourite>
+    <favourite name="thuvienhd.top" thumb="special://home/addons/plugin.video.vietmediaF\resources\images\tvhd.jpeg">ActivateWindow(10025,"plugin://plugin.video.vietmediaF/?action=browse&amp;url=https%3a%2f%2fthuvienhd.top%2fmenu",return)</favourite>
+    <favourite name="The Eternaut: Season 1 - Nhà du hành vĩnh cửu: Phần 1 - (2025)" thumb="https://image.tmdb.org/t/p/w500/9Krv5NvKa5a3Q3b1l2B3rP9Bj8E.jpg">ActivateWindow(10025,"plugin://plugin.video.vietmediaF/browse&amp;url=https://thuviencine.com/phim-nha-du-hanh-vinh-cuu-phan-1-the-eternaut-season-1-2025-fshare/",return)</favourite>
+    <favourite name="Star Wars: Andor: Season 1 - Star Wars: Andor: Phần 1 - (2022)" thumb="https://image.tmdb.org/t/p/w500/khZqmwHQicTYoS7Flreb9EddFZC.jpg">ActivateWindow(10025,"plugin://plugin.video.vietmediaF/browse&amp;url=https://thuviencine.com/phim-star-wars-andor-phan-1-star-wars-andor-season-1-2022-fshare/",return)</favourite>
+    <favourite name="A Minecraft Movie" thumb="https://image.tmdb.org/t/p/w780/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg">PlayMedia("plugin://plugin.video.themoviedb.helper/?info=play&amp;tmdb_type=movie&amp;tmdb_id=950387")</favourite>
+</favourites>
